@@ -64,7 +64,7 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 转发代理 K8PortMap.exe<br>
 <H3>提权工具</H3>
 [+] 提权工具 iislpe.exe  IIS全版本提权(仅限IIS帐户、服务帐户)<br>
-[+] 提权工具 pr.exe pr有参版 pr0无参版（PR即巴西烤肉,主要针对IIS6）
+[+] 提权工具 pr.exe pr有参版 pr0无参版（巴西烤肉:国内10年所说的PR或IIS6提权）<br>
 [+] 提权工具 k8uac_20181125[K8].rar 目前还支持全版本WIN7-Win10<br>
 [+] 提权工具 bypassUAC_Win7_10[K8team].rar  13还是15年？Win10打补丁失效<br>
 [+] 提权工具 bypassUACexe_0419[K8].rar  13年的吧 打补丁的WIN7好像不支持了<br>
