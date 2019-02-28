@@ -25,8 +25,9 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 漏洞利用 WordPress 4.2 XSS 0day 20150429[K.8].rar<br>
 [+] 漏洞利用 k8_zabbix_exp_20160820[K.8].rar<br>
 [+] 漏洞利用 K8_Ecshop_Exploit<br>
-[+] 漏洞利用 [视频]BT5 MSF JAVA 0day CVE-2013-0422 Exploit Demo By K8team.rar<br>
-[+] 漏洞利用 [视频]Hacking Team Flash 0day样本(Firefox IE)完美触发_20150707[K8].rar<br>
+[+] 0day漏洞 K8飞刀内置5个0day漏洞利用(Word漏洞\IE神洞\WVS\RAR)
+[+] 0day漏洞 [视频]BT5 MSF JAVA 0day CVE-2013-0422 Exploit Demo By K8team.rar<br>
+[+] 0day漏洞 [视频]Hacking Team Flash 0day样本(Firefox IE)完美触发_20150707[K8].rar<br>
 <H3>漏洞环境</H3>
 [+] 漏洞环境 K8-ASP注入漏洞环境.rar<br>
 [+] 漏洞环境 k8bbs(php+mysql)注入漏洞环境.rar<br>
@@ -39,7 +40,8 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 脱库工具 K8_mysql脱裤20170114(千万).php<br>
 [+] 脱库工具 K8Packwebshell.aspx 整站打包工具<br>
 [+] 脱库工具 K8outSQL.aspx MSSQL导库工具<br>
-<H3>解密工具</H3>
+<H3>加密解密</H3>
+[+] K8飞刀里大量加密解密算法、编码解码
 [+] 密码破解 K8_FTP爆破PHP脚本20151010.rar 内网渗透用<br>
 [+] 密码破解 K8_Mysql爆破PHP脚本20151009.rar 内网渗透用<br>
 [+] 密码破解 weblogic密码解密工具(exe & jar)<br>
@@ -50,6 +52,7 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 密码破解 getvpnpwd.exe VPN、ADSL宽带帐密读取工具(仅限XP、2003)<br>
 [+] 密码破解 GetPassword_x64.rar GetPwd_K8.rar 一键获取明文<br>
 [+] 密码破解 K8_FuckOneShell 一句话密码爆破秒破10万<br>
+[+] 加密解密 Base32_Decode_20161110.rar
 [+] 斛密工具 ungzip.exe GZIP 用于提取0day网马Powershell执行PAYLOAD<br>
 
 <H3>安全辅助</H3>
@@ -60,6 +63,8 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 转发代理 K8PortMap.exe<br>
 <H3>提权工具</H3>
 [+] 提权工具 iislpe.exe  IIS全版本提权(仅限IIS帐户、服务帐户)<br>
+[+] 提权工具 k8uac_20181125[K8].rar 目前还支持全版本WIN7-Win10<br>
+[+] 提权工具 bypassUAC_Win7_10[K8team].rar  13还是15年？Win10打补丁失效<br>
 [+] 提权工具 bypassUACexe_0419[K8].rar  13年的吧 打补丁的WIN7好像不支持了<br>
 [+] 提权工具 Lpk提权_K8.rar   DLLHijack<br>
 [+] 提权工具 Usp10提权_K8.rar  DLLHijack<br>
@@ -81,7 +86,6 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 提权工具  提权GetTrustedInstaller_0419[K8].rar<br>
 [+] 提权工具  降权System2AdminRun_0419[K8].rar<br>
 [+] 提权工具  无NET添加用户提权_20140511[K8].rar<br>
-[+] 提权工具 bypassUAC_Win7_10[K8team].rar  13还是15年的吧？好像打补丁后WIN10失效<br>
 [+] 提权工具 K8_VBS提权脚本免杀生成器.rar<br>
 [+] 进程注入 DLL注入进程工具过UAC<br>
 <H3>WebShell</H3>
