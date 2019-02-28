@@ -36,6 +36,7 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 漏洞环境 k8bbs(php+mysql)注入漏洞环境.rar<br>
 
 <H3>远控后门</H3>
+[+] 远控后门 TeamServer.exe[K8].rar CS中间件Win版,<br>
 [+] 远控后门 QQ远控 ClientKey 利用工具.rar 不免杀18年仍然可用19年未测估计也还行<br>
 [+] 远控后门 vncdoor.exe  VNC后门可正反向<br>
 [+] 远控后门 k8_SSH_Manage.exe 渗透专用SSH(执行完后立即销毁会话,像putty保存会话连接者IP会一直显示)<br>
