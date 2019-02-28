@@ -5,7 +5,7 @@
 解压密码: k8gege 旧密码 k8team 或 K8team<br>
 
 工具大部分从百度网盘转过来,其中大部份是15-17年编译的,有空才会更新！<br>
-PS：部份工具源码Github上都有，比如提权工具,请自行修改源码编译免杀<br>
+PS：部份工具源码Github上有，如提权工具,请自行修改源码免杀<br>
 
 <H3>综合工具</H3>
 [+] 综合工具 K8飞刀Final.rar (https://www.cnblogs.com/k8gege/p/10424665.html)<br>
