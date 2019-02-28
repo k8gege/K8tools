@@ -17,6 +17,10 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 扫描工具 K8_C段旁注工具6.0<br>
 [+] 扫描工具 cping3.0.rar 大型内外网渗透扫描工具 https://www.cnblogs.com/k8gege/p/10367844.html<br>
 [+] 扫描工具 s加强版.exe<br>
+[+] 扫描工具 K8openssl批量 Bat版.rar<br>
+[+] 扫描工具 K8破壳SMTP Bat版.rar<br>
+[+] 扫描工具 WPdetection.exe WordPress站点信息获取<br>
+[+] 扫描工具 K8-S2批量.rar Struts2批量工具
 
 <H3>漏洞利用</H3>
 [+] 漏洞利用 K8飞刀-EXPLOIT内含20个程序EXP（Drupal、Joomla、Wordpress、Vbulletin、Xampp、Zimbra、ThinkPHP、Magento、Discuz）<br>
@@ -28,6 +32,9 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 漏洞利用 k8_zabbix_exp_20160820[K.8].rar<br>
 [+] 漏洞利用 K8_Ecshop_Exploit<br>
 [+] 漏洞利用 Magento 1.7.0.2 漏洞EXP_20150624[K.8].rar<br>
+[+] 漏洞利用 K8COOKIE.rar Cookie注入工具<br>
+[+] 漏洞利用 Jboss_invoke_Exp_k8.rar MSF脚本<br>
+[+] 漏洞利用 DB_Owner_GetShell_K8.rar MSSQL DB权限拿SHELL工具<br>
 [+] 0day漏洞 K8飞刀内置5个0day漏洞利用(Word漏洞\IE神洞\WVS\RAR)<br>
 [+] 0day漏洞 [视频]BT5 MSF JAVA 0day CVE-2013-0422 Exploit Demo By K8team.rar<br>
 [+] 0day漏洞 [视频]Hacking Team Flash 0day样本(Firefox IE)完美触发_20150707[K8].rar<br>
@@ -36,6 +43,7 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 漏洞环境 k8bbs(php+mysql)注入漏洞环境.rar<br>
 
 <H3>远控后门</H3>
+[+] 远控后门 K8_Gh0st_Bin.rar 不免杀漏洞测试上线用<br>
 [+] 远控后门 TeamServer.exe[K8].rar CS中间件Win版,<br>
 [+] 远控后门 QQ远控 ClientKey 利用工具.rar 不免杀18年仍然可用19年未测估计也还行<br>
 [+] 远控后门 vncdoor.exe  VNC后门可正反向<br>
@@ -43,6 +51,7 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 远控后门 sshcmd.exe 渗透专用SSH(执行完后立即销毁会话,同时清除连接IP，)<br>
 [+] 远控后门 K8手机远控电脑V1.1_20121020[K.8].rar<br>
 [+] 远控后门 JspShellExec CMD下JSP一句话连接工具<br>
+[+] 捆绑工具 K8_rarBind.rar RAR捆绑工具<br>
 <H3>脱库工具</H3>
 [+] 脱库工具 K8_mysql脱裤20170114(千万).php<br>
 [+] 脱库工具 K8Packwebshell.aspx 整站打包工具<br>
@@ -51,6 +60,7 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] K8飞刀里大量加密解密算法、编码解码、SQL注入、XSS等<br>
 [+] 密码破解 K8_FTP爆破PHP脚本20151010.rar 内网渗透用<br>
 [+] 密码破解 K8_Mysql爆破PHP脚本20151009.rar 内网渗透用<br>
+[+] 密码破解 K8_ipcscan 爆破IPC自动种马工具+教程.rar<br>
 [+] 密码破解 weblogic密码解密工具(exe & jar)<br>
 [+] 密码破解 K8fuckVNC.rar VNC密码解密工具<br>
 [+] 密码破解 K8getTeamViewPWD_20150705[K.8].rar<br>
@@ -97,6 +107,9 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 提权工具 K8_VBS提权脚本免杀生成器.rar<br>
 [+] 进程注入 DLL注入进程工具过UAC<br>
 [+] 提权工具 NV显卡提权NVexploit.rar<br>
+[+] 提权工具 net2.0day.exe<br>
+[+] 提权工具 K8dllhijack.rar DLL却持测试工具<br>
+[+] 提权工具 Invoke-MS16-032.ps1
 <H3>WebShell</H3>
 [+] 上传工具 K8upload_1125[K8].rar 新型小马上传工具支持任意文件(内置asp\php\jsp小马)<br>
 [+] WebShell k8cmd.ascx<br>
