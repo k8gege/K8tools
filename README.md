@@ -52,7 +52,7 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 密码破解 getvpnpwd.exe VPN、ADSL宽带帐密读取工具(仅限XP、2003)<br>
 [+] 密码破解 GetPassword_x64.rar GetPwd_K8.rar 一键获取明文<br>
 [+] 密码破解 K8_FuckOneShell 一句话密码爆破秒破10万<br>
-[+] 加密解密 Base32_Decode_20161110.rar
+[+] 加密解密 Base32_Decode_20161110.rar<br>
 [+] 斛密工具 ungzip.exe GZIP 用于提取0day网马Powershell执行PAYLOAD<br>
 
 <H3>安全辅助</H3>
