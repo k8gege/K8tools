@@ -9,7 +9,7 @@
 <br>
 20190228<br>
 [+] 密码破解 weblogic密码解密工具(exe & jar)<br>
-[+] K8Packwebshell.aspx 整站打包工具<br>
+[+] 脱库工具 K8Packwebshell.aspx 整站打包工具<br>
 [+] 脱库工具 K8outSQL.aspx MSSQL导库工具<br>
 [+] 扫描工具 s加强版.exe<br>
 [+] WebShell shellcode.aspx <br>
@@ -32,5 +32,10 @@
 [+] 内网渗透 K8_FTP爆破PHP脚本20151010.rar P<br>
 [+] 密码破解 K8_FuckOneShell 一句话密码爆破秒破10万<br>
 [+] 内网渗透 K8_Mysql爆破PHP脚本20151009.rar<br>
-
-
+[+] 漏洞利用 K8_TomcatExp_1124[K.8].rar<br>
+[+] 提权工具 K8_VBS提权脚本免杀生成器.rar<br>
+[+] 脱库工具 K8_mysql脱裤20170114(千万).php<br>
+[+] 密码破解 K8fuckVNC.rar VNC密码解密工具<br>
+[+] 密码破解 K8getTeamViewPWD_20150705[K.8].rar<br>
+[+] 测试工具 K8shellcodeLoader.exe Shellcode测试<br>
+[+] 上传工具 K8upload_1125[K8].rar 新型小马上传工具支持任意文件<br>
