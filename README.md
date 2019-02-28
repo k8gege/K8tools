@@ -26,7 +26,7 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 漏洞利用 WordPress 4.2 XSS 0day 20150429[K.8].rar<br>
 [+] 漏洞利用 k8_zabbix_exp_20160820[K.8].rar<br>
 [+] 漏洞利用 K8_Ecshop_Exploit<br>
-[+] 0day漏洞 K8飞刀内置5个0day漏洞利用(Word漏洞\IE神洞\WVS\RAR)
+[+] 0day漏洞 K8飞刀内置5个0day漏洞利用(Word漏洞\IE神洞\WVS\RAR)<br>
 [+] 0day漏洞 [视频]BT5 MSF JAVA 0day CVE-2013-0422 Exploit Demo By K8team.rar<br>
 [+] 0day漏洞 [视频]Hacking Team Flash 0day样本(Firefox IE)完美触发_20150707[K8].rar<br>
 <H3>漏洞环境</H3>
@@ -35,7 +35,8 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 
 <H3>远控后门</H3>
 [+] 远控后门 vncdoor.exe  VNC后门可正反向<br>
-[+] 远控后门 k8_SSH_Manage.exe SSH管理工具(执行完后立即销毁会话,不像putty保存会话入侵者IP会一直显示)<br>
+[+] 远控后门 k8_SSH_Manage.exe 渗透专用SSH(执行完后立即销毁会话,像putty保存会话连接者IP会一直显示)<br>
+[+] 远控后门 sshcmd.exe 渗透专用SSH(执行完后立即销毁会话,同时清除连接IP，)<br>
 [+] 远控后门 K8手机远控电脑V1.1_20121020[K.8].rar<br>
 <H3>脱库工具</H3>
 [+] 脱库工具 K8_mysql脱裤20170114(千万).php<br>
