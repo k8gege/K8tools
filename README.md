@@ -8,9 +8,9 @@
 PS：部份工具源码Github上都有，比如提权工具,请自行修改源码编译免杀<br>
 
 <H3>综合工具</H3>
-[+] 综合工具 K8飞刀Final.rar (最终版功能请看https://www.cnblogs.com/k8gege/p/10424665.html)<br>
+[+] 综合工具 K8飞刀Final.rar (https://www.cnblogs.com/k8gege/p/10424665.html)<br>
 <H3>免杀工具</H3>
-[+] 免杀工具 K8_SC_ENCODE(CobaltStrike & Metasploit Shellcode免杀工具).rar<br>
+[+] 免杀工具 K8_SC_ENCODE(CS & Msf免杀工具).rar(https://www.cnblogs.com/k8gege/p/10261491.html)<br>
 [+] 测试工具 K8shellcodeLoader.exe Shellcode测试<br>
 <H3>扫描工具</H3>
 [+] 扫描工具 K8_C段旁注工具6.0<br>
