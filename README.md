@@ -1,4 +1,4 @@
-# K8tools
+# K8tools 20190228
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
 博客: https://www.cnblogs.com/k8gege<br>
@@ -6,7 +6,7 @@
 
 工具大部分从百度网盘转过来,其中大部份是15-17年编译的,有空才会更新！<br>
 PS：部份工具源码Github上都有，比如提权工具,请自行修改源码编译免杀<br>
-Update 20190228<br>
+
 <H3>综合工具</H3>
 [+] 综合工具 K8飞刀Final.rar (最终版功能请看https://www.cnblogs.com/k8gege/p/10424665.html)<br>
 <H3>免杀工具</H3>
