@@ -18,7 +18,7 @@
 20190224<br>
 [+] 免杀工具 K8_SC_ENCODE(CobaltStrike & Metasploit Shellcode免杀工具).rar<br>
 [+] 提权工具 iislpe.exe  IIS全版本提权(仅限IIS帐户、服务帐户)USER暂不支持<br>
-[+] 漏洞利用 K8_Struts2_EXP (支持S2-045、devMode、S2-037、S2-032、S2-020、S2-019、S2-016、S2-013、S2-009、S2-005漏洞)<br>
+[+] 漏洞利用 K8_Struts2_EXP (S2-045、devMode、S2-037、S2-032、S2-020、S2-019、S2-016、S2-013、S2-009、S2-005)<br>
 [+] 漏洞利用 CVE-2018-2628 Weblogic GetShell EXPLOIT<br>
 [+] 漏洞利用 ColdFusion 8 LFI EXP<br>
 [+] 进程注入 DLL注入进程工具过UAC<br>
