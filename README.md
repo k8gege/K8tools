@@ -38,6 +38,7 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 远控后门 k8_SSH_Manage.exe 渗透专用SSH(执行完后立即销毁会话,像putty保存会话连接者IP会一直显示)<br>
 [+] 远控后门 sshcmd.exe 渗透专用SSH(执行完后立即销毁会话,同时清除连接IP，)<br>
 [+] 远控后门 K8手机远控电脑V1.1_20121020[K.8].rar<br>
+[+] 远控后门 JspShellExec CMD下JSP一句话连接工具<br>
 <H3>脱库工具</H3>
 [+] 脱库工具 K8_mysql脱裤20170114(千万).php<br>
 [+] 脱库工具 K8Packwebshell.aspx 整站打包工具<br>
@@ -92,7 +93,6 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 提权工具 K8_VBS提权脚本免杀生成器.rar<br>
 [+] 进程注入 DLL注入进程工具过UAC<br>
 <H3>WebShell</H3>
-[+] 远控后门 JspShellExec CMD下JSP一句话连接工具<br>
 [+] 上传工具 K8upload_1125[K8].rar 新型小马上传工具支持任意文件(内置asp\php\jsp小马)<br>
 [+] WebShell k8cmd.ascx<br>
 [+] WebShell k8cmd.pl<br>
