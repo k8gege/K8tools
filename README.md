@@ -4,9 +4,8 @@
 博客: https://www.cnblogs.com/k8gege<br>
 解压密码: k8gege 旧密码 k8team 或 K8team<br>
 
-<br>
-工具大部分从百度网盘转过来，有空再慢慢更新！<br>
-<br>
+工具大部分从百度网盘转过来,其中大部份是15-17年编译的,有空才会更新！<br>
+PS：部份工具源码Github上都有，比如提权工具,请自行修改源码编译免杀<br>
 20190228<br>
 [+] 密码破解 weblogic密码解密工具(exe & jar)<br>
 [+] 脱库工具 K8Packwebshell.aspx 整站打包工具<br>
@@ -56,4 +55,24 @@
 [+] 提权工具 MS15-051提权 CVE-2015-1701_20150525[K8].rar<br>
 [+] 提权工具 MS15-077提权工具[K8].rar<br>
 [+] 提权工具 MS16-016提权EXP[K8].rar<br>
-
+[+] 提权工具 Windows Win32k.sys EPATHOBJ 0day Exploit 提权工具 [K8team].rar<br>
+[+] 漏洞利用 WordPress 4.2 XSS 0day 20150429[K.8].rar<br>
+[+] 漏洞利用 [视频]BT5 MSF JAVA 0day CVE-2013-0422 Exploit Demo By K8team.rar<br>
+[+] 漏洞利用 [视频]Hacking Team Flash 0day样本(Firefox IE)完美触发_20150707[K8].rar<br>
+[+] 提权工具 bypassUAC_Win7_10[K8team].rar  13还是15年的吧？好像打补丁后WIN10失效了<br>
+[+] 提权工具 bypassUACexe_0419[K8].rar  18年编译的支持全版本WIN7-WIN10<br>
+[+] 密码破解 getBrowserPWD_1124[K.8].rar  Firefox\Ghrome 浏览器密码读取工具<br>
+[+] 密码破解 getvpnpwd.exe VPN、ADSL宽带帐密读取工具(仅限XP、2003)<br>
+[+] 远控后门 k8_SSH_Manage.exe SSH管理工具(执行完后立即销毁会话,不像putty保存会话入侵者IP会一直显示)<br>
+[+] 漏洞利用 k8_zabbix_exp_20160820[K.8].rar<br>
+[+] 漏洞环境 k8bbs(php+mysql)注入漏洞环境.rar<br>
+[+] WebShell k8cmd.ascx<br>
+[+] WebShell k8cmd.pl<br>
+[+] WebShell k8cmd.py<br>
+[+] WebShell k8飞刀CMD.jsp<br>
+[+] WebShell K8飞刀A专用UA一句话木马.asp<br>
+[+] WebShell K8飞刀PHP-专用UA一句话木马.php<br>
+[+] WebShell K8飞刀专用UA一句话木马.asxp<br>
+[+] 扫描工具  cping3.0.rar 大型内网渗透扫描工具<br>
+[+] 提权工具  k8downexec.mof<br>
+[+] 提权工具  k8zzz.rar SMB溢出 支持执行自定义exe程序<br>
