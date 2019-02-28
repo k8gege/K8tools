@@ -12,6 +12,7 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 <H3>免杀工具</H3>
 [+] 免杀工具 K8_SC_ENCODE(CS & Msf免杀工具).rar(https://www.cnblogs.com/k8gege/p/10261491.html)<br>
 [+] 测试工具 K8shellcodeLoader.exe Shellcode测试<br>
+[+] 测试工具 K8随机免杀花指令生成器V2.0.exe<br>
 <H3>扫描工具</H3>
 [+] 扫描工具 K8_C段旁注工具6.0<br>
 [+] 扫描工具 cping3.0.rar 大型内网渗透扫描工具<br>
@@ -63,6 +64,7 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 转发代理 K8PortMap.exe<br>
 <H3>提权工具</H3>
 [+] 提权工具 iislpe.exe  IIS全版本提权(仅限IIS帐户、服务帐户)<br>
+[+] 提权工具 pr.exe pr有参版 pr0无参版（PR即巴西烤肉,主要针对IIS6）
 [+] 提权工具 k8uac_20181125[K8].rar 目前还支持全版本WIN7-Win10<br>
 [+] 提权工具 bypassUAC_Win7_10[K8team].rar  13还是15年？Win10打补丁失效<br>
 [+] 提权工具 bypassUACexe_0419[K8].rar  13年的吧 打补丁的WIN7好像不支持了<br>
