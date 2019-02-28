@@ -59,7 +59,7 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 安全工具 K8木马病毒后门监视器V3.0.rar 捆绑后门木马释放路径、Shell上传路径查看<br>
 [+] 安全工具 K8进程拦截.rar (比方说访问网页浏览器调用外站EXE执行说明0day来了,而且可防止木马运行)<br>
 [+] 安全工具 K8驱动防止WebShell提权工具.rar (就是说无法通过WEBSHELL执行任意命令,就算有签名的EXE也不行)<br>
-[+] 辅助工具 K8注册表跳转.exe 快速跳转到注册表指定项<br>
+[+] 辅助工具 K8注册表跳转.exe<br>
 [+] 转发代理 K8PortMap.exe<br>
 <H3>提权工具</H3>
 [+] 提权工具 iislpe.exe  IIS全版本提权(仅限IIS帐户、服务帐户)<br>
@@ -100,6 +100,6 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] WebShell K8飞刀专用UA一句话木马.asxp<br>
 [+] WebShell shellcode.aspx <br>
 <H3>硬件渗透</H3>
-[+]BadUSB K8飞刀  内含有大量Teensy渗透功能脚本自<br>
+[+]BadUSB K8飞刀  内含有大量Teensy渗透功能脚本自行研究<br>
 [+]BadUSB Teensy 兼容所有Windows和Linux系统下载者.ino<br>
 
