@@ -11,9 +11,12 @@ Update 20190228<br>
 [+] 综合工具 K8飞刀Final.rar (最终版功能请看https://www.cnblogs.com/k8gege/p/10424665.html)<br>
 <H3>免杀工具</H3>
 [+] 免杀工具 K8_SC_ENCODE(CobaltStrike & Metasploit Shellcode免杀工具).rar<br>
-<H3>内网渗透</H3>
+[+] 测试工具 K8shellcodeLoader.exe Shellcode测试<br>
+<H3>扫描工具</H3>
+[+] 扫描工具 K8_C段旁注工具6.0<br>
 [+] 扫描工具 cping3.0.rar 大型内网渗透扫描工具<br>
 [+] 扫描工具 s加强版.exe<br>
+<H3>内网渗透</H3>
 [+] 远控后门 JspShellExec CMD下JSP一句话连接工具<br>
 [+] 密码破解 K8_FTP爆破PHP脚本20151010.rar<br>
 [+] 密码破解 K8_Mysql爆破PHP脚本20151009.rar<br>
@@ -24,19 +27,19 @@ Update 20190228<br>
 [+] 漏洞利用 ColdFusion 8 LFI EXP<br>
 [+] 漏洞利用 K8_TomcatExp_1124[K.8].rar<br>
 [+] 漏洞利用 WordPress 4.2 XSS 0day 20150429[K.8].rar<br>
-[+] 漏洞利用 [视频]BT5 MSF JAVA 0day CVE-2013-0422 Exploit Demo By K8team.rar<br>
-[+] 漏洞利用 [视频]Hacking Team Flash 0day样本(Firefox IE)完美触发_20150707[K8].rar<br>
 [+] 漏洞利用 k8_zabbix_exp_20160820[K.8].rar<br>
 [+] 漏洞利用 K8_Ecshop_Exploit<br>
-
-[+] 信息收集 K8_C段旁注工具6.0<br>
-[+] 物理黑客 BadUSB Teensy 兼容所有Windows和Linux系统下载者.ino<br>
+[+] 漏洞利用 [视频]BT5 MSF JAVA 0day CVE-2013-0422 Exploit Demo By K8team.rar<br>
+[+] 漏洞利用 [视频]Hacking Team Flash 0day样本(Firefox IE)完美触发_20150707[K8].rar<br>
+<H3>漏洞环境</H3>
 [+] 漏洞环境 K8-ASP注入漏洞环境.rar<br>
 [+] 漏洞环境 k8bbs(php+mysql)注入漏洞环境.rar<br>
+[+] 物理黑客 BadUSB Teensy 兼容所有Windows和Linux系统下载者.ino<br>
 [+] 进程注入 DLL注入进程工具过UAC<br>
+<H3>远控后门</H3>
 [+] 远控后门 vncdoor.exe  VNC后门可正反向<br>
 [+] 远控后门 k8_SSH_Manage.exe SSH管理工具(执行完后立即销毁会话,不像putty保存会话入侵者IP会一直显示)<br>
-
+[+] 远控后门 K8手机远控电脑V1.1_20121020[K.8].rar<br>
 <H3>脱库工具</H3>
 [+] 脱库工具 K8_mysql脱裤20170114(千万).php<br>
 [+] 脱库工具 K8Packwebshell.aspx 整站打包工具<br>
@@ -51,9 +54,6 @@ Update 20190228<br>
 [+] 密码破解 GetPassword_x64.rar GetPwd_K8.rar 一键获取明文<br>
 [+] 密码破解 K8_FuckOneShell 一句话密码爆破秒破10万<br>
 
-[+] 测试工具 K8shellcodeLoader.exe Shellcode测试<br>
-[+] 上传工具 K8upload_1125[K8].rar 新型小马上传工具支持任意文件(内置asp\php\jsp小马)<br>
-[+] 远控后门 K8手机远控电脑V1.1_20121020[K.8].rar<br>
 <H3>安全</H3>
 [+] 安全工具 K8木马病毒后门监视器V3.0.rar 捆绑后门木马释放路径、Shell上传路径查看<br>
 [+] 安全工具 K8进程拦截.rar (比方说访问网页浏览器调用外站EXE执行说明0day来了,而且可防止木马运行)<br>
@@ -86,6 +86,7 @@ Update 20190228<br>
 [+] 提权工具 bypassUAC_Win7_10[K8team].rar  13还是15年的吧？好像打补丁后WIN10失效了<br>
 [+] 提权工具 K8_VBS提权脚本免杀生成器.rar<br>
 <H3>WebShell</H3>
+[+] 上传工具 K8upload_1125[K8].rar 新型小马上传工具支持任意文件(内置asp\php\jsp小马)<br>
 [+] WebShell k8cmd.ascx<br>
 [+] WebShell k8cmd.pl<br>
 [+] WebShell k8cmd.py<br>
