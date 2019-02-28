@@ -111,6 +111,7 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 提权工具 net2.0day.exe<br>
 [+] 提权工具 K8dllhijack.rar DLL却持测试工具<br>
 [+] 提权工具 Invoke-MS16-032.ps1
+[+] Apache 2.2.1.4 mod_isapi exploit.rar<br>
 <H3>WebShell</H3>
 [+] 上传工具 K8upload_1125[K8].rar 新型小马上传工具支持任意文件(内置asp\php\jsp小马)<br>
 [+] WebShell k8cmd.ascx<br>
