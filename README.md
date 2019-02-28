@@ -60,7 +60,7 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 转发代理 K8PortMap.exe<br>
 <H3>提权工具</H3>
 [+] 提权工具 iislpe.exe  IIS全版本提权(仅限IIS帐户、服务帐户)<br>
-[+] 提权工具 bypassUACexe_0419[K8].rar  目前还支持全版本WIN7-WIN10<br>
+[+] 提权工具 bypassUACexe_0419[K8].rar  13年的吧 打补丁的WIN7好像不支持了<br>
 [+] 提权工具 Lpk提权_K8.rar   DLLHijack<br>
 [+] 提权工具 Usp10提权_K8.rar  DLLHijack<br>
 [+] 提权工具 MS11_46提权_K8.rar<br>
@@ -81,7 +81,7 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 提权工具  提权GetTrustedInstaller_0419[K8].rar<br>
 [+] 提权工具  降权System2AdminRun_0419[K8].rar<br>
 [+] 提权工具  无NET添加用户提权_20140511[K8].rar<br>
-[+] 提权工具 bypassUAC_Win7_10[K8team].rar  13还是15年的吧？好像打补丁后WIN10失效了<br>
+[+] 提权工具 bypassUAC_Win7_10[K8team].rar  13还是15年的吧？好像打补丁后WIN10失效<br>
 [+] 提权工具 K8_VBS提权脚本免杀生成器.rar<br>
 [+] 进程注入 DLL注入进程工具过UAC<br>
 <H3>WebShell</H3>
