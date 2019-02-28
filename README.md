@@ -34,8 +34,7 @@ Update 20190228<br>
 <H3>漏洞环境</H3>
 [+] 漏洞环境 K8-ASP注入漏洞环境.rar<br>
 [+] 漏洞环境 k8bbs(php+mysql)注入漏洞环境.rar<br>
-[+] 物理黑客 BadUSB Teensy 兼容所有Windows和Linux系统下载者.ino<br>
-[+] 进程注入 DLL注入进程工具过UAC<br>
+
 <H3>远控后门</H3>
 [+] 远控后门 vncdoor.exe  VNC后门可正反向<br>
 [+] 远控后门 k8_SSH_Manage.exe SSH管理工具(执行完后立即销毁会话,不像putty保存会话入侵者IP会一直显示)<br>
@@ -54,7 +53,7 @@ Update 20190228<br>
 [+] 密码破解 GetPassword_x64.rar GetPwd_K8.rar 一键获取明文<br>
 [+] 密码破解 K8_FuckOneShell 一句话密码爆破秒破10万<br>
 
-<H3>安全</H3>
+<H3>安全辅助</H3>
 [+] 安全工具 K8木马病毒后门监视器V3.0.rar 捆绑后门木马释放路径、Shell上传路径查看<br>
 [+] 安全工具 K8进程拦截.rar (比方说访问网页浏览器调用外站EXE执行说明0day来了,而且可防止木马运行)<br>
 [+] 安全工具 K8驱动防止WebShell提权工具.rar (就是说无法通过WEBSHELL执行任意命令,就算有签名的EXE也不行)<br>
@@ -85,6 +84,7 @@ Update 20190228<br>
 [+] 提权工具  无NET添加用户提权_20140511[K8].rar<br>
 [+] 提权工具 bypassUAC_Win7_10[K8team].rar  13还是15年的吧？好像打补丁后WIN10失效了<br>
 [+] 提权工具 K8_VBS提权脚本免杀生成器.rar<br>
+[+] 进程注入 DLL注入进程工具过UAC<br>
 <H3>WebShell</H3>
 [+] 上传工具 K8upload_1125[K8].rar 新型小马上传工具支持任意文件(内置asp\php\jsp小马)<br>
 [+] WebShell k8cmd.ascx<br>
@@ -95,5 +95,6 @@ Update 20190228<br>
 [+] WebShell K8飞刀PHP-专用UA一句话木马.php<br>
 [+] WebShell K8飞刀专用UA一句话木马.asxp<br>
 [+] WebShell shellcode.aspx <br>
-
+<H3>硬件</H3>
+[+]BadUSB Teensy 兼容所有Windows和Linux系统下载者.ino<br>
 
