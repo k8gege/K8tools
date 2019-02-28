@@ -100,6 +100,6 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] WebShell K8飞刀专用UA一句话木马.asxp<br>
 [+] WebShell shellcode.aspx <br>
 <H3>硬件</H3>
-[+]BadUSB K8飞刀  内含有大量Teensy渗透功能脚本自
+[+]BadUSB K8飞刀  内含有大量Teensy渗透功能脚本自<br>
 [+]BadUSB Teensy 兼容所有Windows和Linux系统下载者.ino<br>
 
