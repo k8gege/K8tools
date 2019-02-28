@@ -72,6 +72,7 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 密码破解 K8_FuckOneShell 一句话密码爆破秒破10万<br>
 [+] 加密解密 Base32_Decode_20161110.rar<br>
 [+] 斛密工具 ungzip.exe GZIP 用于提取0day网马Powershell执行PAYLOAD<br>
+[+] 密码破解 Invoke-Mimikatz.ps1  Mimikatz 20181209版
 
 <H3>安全辅助</H3>
 [+] 安全工具 K8木马病毒后门监视器V3.0.rar 捆绑后门木马释放路径、Shell上传路径查看<br>
