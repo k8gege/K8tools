@@ -76,3 +76,13 @@ PS：部份工具源码Github上都有，比如提权工具,请自行修改源�
 [+] 扫描工具  cping3.0.rar 大型内网渗透扫描工具<br>
 [+] 提权工具  k8downexec.mof<br>
 [+] 提权工具  k8zzz.rar SMB溢出 支持执行自定义exe程序<br>
+[+] 提权工具  udf.dll MYSQL udf提权DLL<br>
+[+] 斛密工具  ungzip.exe GZIP 用于提取0day网马Powershell执行PAYLOAD<br>
+[+] 提权工具  ws2help提权_K8.rar<br>
+[+] 提权工具  卡巴6.0.2.614提权.exe<br>
+[+] 提权工具  小红伞 Avira avipbb.sys 提权Exploit_1024[K8].rar<br>
+[+] 提权工具  提权Admin2SystemRun_0419[K8].rar<br>
+[+] 提权工具  提权GetTrustedInstaller_0419[K8].rar
+[+] 提权工具  降权System2AdminRun_0419[K8].rar
+[+] 提权工具  无NET添加用户提权_20140511[K8].rar
+
