@@ -41,7 +41,7 @@ PS：部份工具源码Github上有，如提权工具,请自行修改源码完�
 [+] 脱库工具 K8Packwebshell.aspx 整站打包工具<br>
 [+] 脱库工具 K8outSQL.aspx MSSQL导库工具<br>
 <H3>加密解密</H3>
-[+] K8飞刀里大量加密解密算法、编码解码
+[+] K8飞刀里大量加密解密算法、编码解码、SQL注入、XSS等<br>
 [+] 密码破解 K8_FTP爆破PHP脚本20151010.rar 内网渗透用<br>
 [+] 密码破解 K8_Mysql爆破PHP脚本20151009.rar 内网渗透用<br>
 [+] 密码破解 weblogic密码解密工具(exe & jar)<br>
