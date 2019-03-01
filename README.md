@@ -63,16 +63,18 @@ PASS: k8gege k8team K8team<br>
 [+] 密码破解 K8_Mysql爆破PHP脚本20151009.rar 内网渗透用<br>
 [+] 密码破解 K8_ipcscan 爆破IPC自动种马工具+教程.rar<br>
 [+] 密码破解 weblogic密码解密工具(exe & jar)<br>
-[+] 密码破解 K8fuckVNC.rar VNC密码解密工具<br>
+[+] 密码破解 K8fuckVNC.rar k8vncpwd.exe VNC密码解密工具<br>
 [+] 密码破解 K8getTeamViewPWD_20150705[K.8].rar<br>
 [+] 密码破解 K8正方密码解密工具_20150801[K.8].rar<br>
 [+] 密码破解 getBrowserPWD_1124[K.8].rar  Firefox\Ghrome 浏览器密码读取工具<br>
 [+] 密码破解 getvpnpwd.exe VPN、ADSL宽带帐密读取工具(仅限XP、2003)<br>
 [+] 密码破解 GetPassword_x64.rar GetPwd_K8.rar 一键获取明文<br>
 [+] 密码破解 K8_FuckOneShell 一句话密码爆破秒破10万<br>
-[+] 加密解密 Base32_Decode_20161110.rar<br>
-[+] 斛密工具 ungzip.exe GZIP 用于提取0day网马Powershell执行PAYLOAD<br>
-
+[+] 加密解密 K8Base32_Decode_20161110.rar<br>
+[+] 斛密工具 k8ungzip.exe GZIP 用于提取0day网马Powershell执行PAYLOAD<br>
+[+] 密码破解 K8FTP密码破解器V2.0_20190301[K8].rar<br>
+[+] 密码破解 K8Access数据库密码读取器_20190301[K8].rar<br>
+[+]加密工具 K8_FileHideImg.exe 任意文件隐藏至图片工具<br>
 
 <H3>安全辅助</H3>
 [+] 安全工具 K8木马病毒后门监视器V3.0.rar 捆绑后门木马释放路径、Shell上传路径查看<br>
@@ -115,6 +117,7 @@ PASS: k8gege k8team K8team<br>
 [+] Apache 2.2.1.4 mod_isapi exploit.rar<br>
 <H3>WebShell</H3>
 [+] 上传工具 K8upload_1125[K8].rar 新型小马上传工具支持任意文件(内置asp\php\jsp小马)<br>
+[+] 连接工具 K8一句话ASP木马客户端加强程序版.exe<br>
 [+] WebShell k8cmd.ascx<br>
 [+] WebShell k8cmd.pl<br>
 [+] WebShell k8cmd.py<br>
@@ -127,3 +130,8 @@ PASS: k8gege k8team K8team<br>
 [+]BadUSB K8飞刀  内含有大量Teensy渗透功能脚本自行研究<br>
 [+]BadUSB Teensy 兼容所有Windows和Linux系统下载者.ino<br>
 
+<H3>其它工具</H3>
+[+]教程录制 K8屏幕录像 高压缩率版_20190301[K8].rar<br>
+[+]系统美化 K8文件夹个性设置工具.exe<br>
+[+]系统美化 K8个性桌面右键菜单.exe<br>
+[+]搜索工具 K8吉他谱搜索工具_20190301[K8].rar<br>
