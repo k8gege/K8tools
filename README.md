@@ -1,21 +1,22 @@
 # K8tools 20190228
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
-博客: https://www.cnblogs.com/k8gege<br>
-解压密码: k8gege 旧密码 k8team 或 K8team<br>
+Blog: https://www.cnblogs.com/k8gege<br>
+PASS: k8gege k8team K8team<br>
 
-工具大部分从百度网盘转过来,其中大部份是15-17年编译的,有空才会更新<br>
-PS：部份工具源码Github上有，如提权工具,请自行修改源码完善或免杀<br>
+工具主要为原创或二次编译，大部分是15-17年编译的,有空才会更新<br>
+提权工具大多数为二次研发，修改后兼容性更好，也可在Shell下使用<br>
+工具详细说明或使用教程请前往博客查看<br>
 
 <H3>综合工具</H3>
-[+] 综合工具 K8飞刀Final.rar (https://www.cnblogs.com/k8gege/p/10424665.html)<br>
+[+] 综合工具 K8飞刀Final.rar<br>
 <H3>免杀工具</H3>
-[+] 免杀工具 K8_SC_ENCODE(CS & Msf免杀工具).rar(https://www.cnblogs.com/k8gege/p/10261491.html)<br>
+[+] 免杀工具 K8_SC_ENCODE(CS & Msf免杀工具).rar<br>
 [+] 测试工具 K8shellcodeLoader.exe Shellcode测试<br>
 [+] 测试工具 K8随机免杀花指令生成器V2.0.exe<br>
 <H3>扫描工具</H3>
 [+] 扫描工具 K8_C段旁注工具6.0<br>
-[+] 扫描工具 cping3.0.rar 大型内外网渗透扫描工具 https://www.cnblogs.com/k8gege/p/10367844.html<br>
+[+] 扫描工具 cping3.0.rar 大型内外网渗透扫描工具<br>
 [+] 扫描工具 s加强版.exe<br>
 [+] 扫描工具 K8openssl批量 Bat版.rar<br>
 [+] 扫描工具 K8破壳SMTP Bat版.rar<br>
