@@ -9,7 +9,11 @@ PASS: k8gege k8team K8team<br>
 <H3>免杀工具</H3>
 [+] 免杀工具 K8_SC_ENCODE(CS & Msf免杀工具).rar<br>
 [+] 测试工具 K8shellcodeLoader.exe Shellcode测试<br>
-[+] 测试工具 K8随机免杀花指令生成器V2.0.exe<br>
+[+] 免杀工具 K8随机免杀花指令生成器V2.0.exe<br>
+[+] 免杀工具 K8数字签名添加器.exe<br>
+[+] 捆绑工具 K8免杀系统自带捆绑器加强版V2.0.EXE<br>
+
+
 <H3>扫描工具</H3>
 [+] 扫描工具 K8_C段旁注工具6.0<br>
 [+] 扫描工具 cping3.0.rar 大型内外网渗透扫描工具<br>
@@ -33,12 +37,17 @@ PASS: k8gege k8team K8team<br>
 [+] 漏洞利用 K8COOKIE.rar Cookie注入工具<br>
 [+] 漏洞利用 Jboss_invoke_Exp_k8.rar MSF脚本<br>
 [+] 漏洞利用 DB_Owner_GetShell_K8.rar MSSQL DB权限拿SHELL工具<br>
+<H3>挂马工具</H3>
+[+] 挂马工具  K8ARPTool.rar 内网ARP工具批量挂马<br>
+[+] 挂马工具  CHM网马生成器.exe<br>
 [+] 0day漏洞 K8飞刀内置5个0day漏洞利用(Word漏洞\IE神洞\WVS\RAR)<br>
 [+] 0day漏洞 [视频]BT5 MSF JAVA 0day CVE-2013-0422 Exploit Demo By K8team.rar<br>
 [+] 0day漏洞 [视频]Hacking Team Flash 0day样本(Firefox IE)完美触发_20150707[K8].rar<br>
 <H3>漏洞环境</H3>
 [+] 漏洞环境 K8-ASP注入漏洞环境.rar<br>
 [+] 漏洞环境 k8bbs(php+mysql)注入漏洞环境.rar<br>
+[+] 漏洞环境 K8 SQL强化练习工具V1.0_20190301[K8].rar<br>
+[+] 漏洞环境 K8迷你ASP服务器.exe 绿色一键启动<br>
 
 <H3>远控后门</H3>
 [+] 远控后门 K8_Gh0st_Bin.rar 不免杀漏洞测试上线用<br>
@@ -74,7 +83,8 @@ PASS: k8gege k8team K8team<br>
 [+] 斛密工具 k8ungzip.exe GZIP 用于提取0day网马Powershell执行PAYLOAD<br>
 [+] 密码破解 K8FTP密码破解器V2.0_20190301[K8].rar<br>
 [+] 密码破解 K8Access数据库密码读取器_20190301[K8].rar<br>
-[+]加密工具 K8_FileHideImg.exe 任意文件隐藏至图片工具<br>
+[+] 加密工具 K8_FileHideImg.exe 任意文件隐藏至图片工具<br>
+
 
 <H3>安全辅助</H3>
 [+] 安全工具 K8木马病毒后门监视器V3.0.rar 捆绑后门木马释放路径、Shell上传路径查看<br>
@@ -135,3 +145,9 @@ PASS: k8gege k8team K8team<br>
 [+]系统美化 K8文件夹个性设置工具.exe<br>
 [+]系统美化 K8个性桌面右键菜单.exe<br>
 [+]搜索工具 K8吉他谱搜索工具_20190301[K8].rar<br>
+[+]系统美化 图标提取器.exe<br>
+[+]系统美化 k8cmd.exe<br>
+[+]辅助工具 K8侠盗猎车4外挂.exe<br>
+[+]辅助工具 K8迅雷、快车、旋风地址互换工具.exe<br>
+
+
