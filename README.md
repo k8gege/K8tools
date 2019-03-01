@@ -4,10 +4,6 @@
 Blog: https://www.cnblogs.com/k8gege<br>
 PASS: k8gege k8team K8team<br>
 
-工具主要为原创或二次编译，大部分是15-17年编译的,有空才会更新<br>
-提权工具大多数为二次研发，修改后兼容性更好，也可在Shell下使用<br>
-工具详细说明或使用教程请前往博客查看<br>
-
 <H3>综合工具</H3>
 [+] 综合工具 K8飞刀Final.rar<br>
 <H3>免杀工具</H3>
