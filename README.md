@@ -1,6 +1,6 @@
 # K8tools 20190301
 
-声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
+工具仅供安全研究或授权渗透，非法用途后果自负。<br>
 Blog: https://www.cnblogs.com/k8gege<br>
 PASS: k8gege k8team K8team<br>
 
