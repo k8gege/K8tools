@@ -1,4 +1,4 @@
-# K8tools 20190301
+# K8tools 20190304
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
 Blog: https://www.cnblogs.com/k8gege<br>
@@ -54,7 +54,7 @@ PASS: k8gege k8team K8team<br>
 [+] 远控后门 TeamServer.exe[K8].rar CS中间件Win版,<br>
 [+] 远控后门 QQ远控 ClientKey 利用工具.rar 不免杀18年仍然可用19年未测估计也还行<br>
 [+] 远控后门 vncdoor.exe  VNC后门可正反向<br>
-[+] 远控后门 k8_SSH_Manage.exe 渗透专用SSH(执行完后立即销毁会话,像putty保存会话连接者IP会一直显示)<br>
+[+] 远控后门 k8_SSH_Manage.exe 渗透专用SSH(执行完后立即销毁会话,不像putty保存会话常暴露IP)<br>
 [+] 远控后门 sshcmd.exe 渗透专用SSH(执行完后立即销毁会话,同时清除连接IP，)<br>
 [+] 远控后门 K8手机远控电脑V1.1_20121020[K.8].rar<br>
 [+] 远控后门 JspShellExec CMD下JSP一句话连接工具<br>
@@ -65,6 +65,7 @@ PASS: k8gege k8team K8team<br>
 [+] 脱库工具 K8outSQL.aspx MSSQL导库工具<br>
 <H3>加密解密</H3>
 [+] K8飞刀里大量加密解密算法、编码解码、SQL注入、XSS等<br>
+[+] 密码破解 K8_DNN_Password_Decrypt_20161110.rar dotnetnuke密码解密工具<br>
 [+] 密码破解 Invoke-Mimikatz.ps1  Mimikatz 20181209 <br>
 [+] 密码破解 mz.exe    Mimikatz-2.1.1-20181209 X86 一键版<br>
 [+] 密码破解 mz64.exe  Mimikatz-2.1.1-20181209 X64 一键版<br>
