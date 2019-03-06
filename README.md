@@ -65,6 +65,7 @@ PASS: k8gege k8team K8team<br>
 [+] 脱库工具 K8outSQL.aspx MSSQL导库工具<br>
 <H3>加密解密</H3>
 [+] K8飞刀里大量加密解密算法、编码解码、SQL注入、XSS等<br>
+[+] 嗅探工具 k8ftpsniffer.py FTP<br>
 [+] 密码破解 K8_DNN_Password_Decrypt_20161110.rar dotnetnuke密码解密工具<br>
 [+] 密码破解 Invoke-Mimikatz.ps1  Mimikatz 20181209 <br>
 [+] 密码破解 mz.exe    Mimikatz-2.1.1-20181209 X86 一键版<br>
