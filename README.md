@@ -1,4 +1,4 @@
-# K8tools 20190304
+# K8tools 20190306
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
 Blog: https://www.cnblogs.com/k8gege<br>
@@ -51,7 +51,7 @@ PASS: k8gege k8team K8team<br>
 
 <H3>远控后门</H3>
 [+] 远控后门 K8_Gh0st_Bin.rar 不免杀漏洞测试上线用<br>
-[+] 远控后门 TeamServer.exe[K8].rar CS中间件Win版,<br>
+[+] 远控后门 TeamServer.exe  CS中转Win版,无需Kali下生成cobaltstrike.store文件<br>
 [+] 远控后门 QQ远控 ClientKey 利用工具.rar 不免杀18年仍然可用19年未测估计也还行<br>
 [+] 远控后门 vncdoor.exe  VNC后门可正反向<br>
 [+] 远控后门 k8_SSH_Manage.exe 渗透专用SSH(执行完后立即销毁会话,不像putty保存会话常暴露IP)<br>
