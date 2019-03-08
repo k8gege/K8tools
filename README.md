@@ -22,7 +22,7 @@ PASS: k8gege k8team K8team<br>
 [+] 扫描工具 K8破壳SMTP Bat版.rar<br>
 [+] 扫描工具 WPdetection.exe WordPress站点信息获取<br>
 [+] 扫描工具 K8-S2批量.rar Struts2批量工具<br>
-[+] 扫描工具 smbcheck.exe MS17-010漏洞检测,cping\cscan专用<br>
+[+] 扫描工具 smbcheck.exe MS17-010漏洞检测，cping、cscan批量专用<br>
 <H3>漏洞利用</H3>
 [+] 漏洞利用 K8飞刀-EXPLOIT内含20个程序EXP（Drupal、Joomla、Wordpress、Vbulletin、Xampp、Zimbra、ThinkPHP、Magento、Discuz）<br>
 [+] 漏洞利用 K8_Struts2_EXP (S2-045、devMode、S2-037、S2-032、S2-020、S2-019、S2-016、S2-013、S2-009、S2-005)<br>
