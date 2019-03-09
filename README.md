@@ -1,8 +1,9 @@
 # K8tools 20190308
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
-Blog: https://www.cnblogs.com/k8gege<br>
-PASS: k8gege k8team K8team<br>
+博客: https://www.cnblogs.com/k8gege<br>
+下载: https://github.com/k8gege/K8tools<br>
+密码: k8gege k8team K8team<br>
 
 <H3>综合工具</H3>
 [+] 综合工具 K8飞刀Final.rar<br>
@@ -12,8 +13,6 @@ PASS: k8gege k8team K8team<br>
 [+] 免杀工具 K8随机免杀花指令生成器V2.0.exe<br>
 [+] 免杀工具 K8数字签名添加器.exe<br>
 [+] 捆绑工具 K8免杀系统自带捆绑器加强版V2.0.EXE<br>
-
-
 <H3>扫描工具</H3>
 [+] 扫描工具 K8_C段旁注工具6.0<br>
 [+] 扫描工具 cping3.0.rar 大型内外网渗透扫描工具<br>
@@ -48,7 +47,6 @@ PASS: k8gege k8team K8team<br>
 [+] 漏洞环境 k8bbs(php+mysql)注入漏洞环境.rar<br>
 [+] 漏洞环境 K8 SQL强化练习工具V1.0_20190301[K8].rar<br>
 [+] 漏洞环境 K8迷你ASP服务器.exe 绿色一键启动<br>
-
 <H3>远控后门</H3>
 [+] 远控后门 K8_Gh0st_Bin.rar 不免杀漏洞测试上线用<br>
 [+] 远控后门 TeamServer.exe  CS中转Win版,无需Kali下生成cobaltstrike.store文件<br>
@@ -86,8 +84,6 @@ PASS: k8gege k8team K8team<br>
 [+] 密码破解 K8FTP密码破解器V2.0_20190301[K8].rar<br>
 [+] 密码破解 K8Access数据库密码读取器_20190301[K8].rar<br>
 [+] 加密工具 K8_FileHideImg.exe 任意文件隐藏至图片工具<br>
-
-
 <H3>安全辅助</H3>
 [+] 安全工具 K8木马病毒后门监视器V3.0.rar 捆绑后门木马释放路径、Shell上传路径查看<br>
 [+] 安全工具 K8进程拦截.rar (比方说访问网页浏览器调用外站EXE执行说明0day来了,而且可防止木马运行)<br>
@@ -141,7 +137,6 @@ PASS: k8gege k8team K8team<br>
 <H3>硬件渗透</H3>
 [+]BadUSB K8飞刀  内含有大量Teensy渗透功能脚本自行研究<br>
 [+]BadUSB Teensy 兼容所有Windows和Linux系统下载者.ino<br>
-
 <H3>其它工具</H3>
 [+]教程录制 K8屏幕录像 高压缩率版_20190301[K8].rar<br>
 [+]系统美化 K8文件夹个性设置工具.exe<br>
@@ -151,5 +146,3 @@ PASS: k8gege k8team K8team<br>
 [+]系统美化 k8cmd.exe<br>
 [+]辅助工具 K8侠盗猎车4外挂.exe<br>
 [+]辅助工具 K8迅雷、快车、旋风地址互换工具.exe<br>
-
-
