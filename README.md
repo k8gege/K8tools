@@ -1,10 +1,10 @@
-# K8tools 20190308
+# K8tools 20190312
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
 博客: https://www.cnblogs.com/k8gege<br>
 下载: https://github.com/k8gege/K8tools<br>
 密码: k8gege k8team K8team<br>
-
+文件比较大，请按需下载。
 <H3>综合工具</H3>
 [+] 综合工具 K8飞刀Final.rar<br>
 <H3>免杀工具</H3>
@@ -14,8 +14,9 @@
 [+] 免杀工具 K8数字签名添加器.exe<br>
 [+] 捆绑工具 K8免杀系统自带捆绑器加强版V2.0.EXE<br>
 <H3>扫描工具</H3>
-[+] 扫描工具 K8_C段旁注工具6.0<br>
+[+] 扫描工具 K8 Cscan 3.0.rar 高效批量C段扫描工具<br>
 [+] 扫描工具 cping3.0.rar 大型内外网渗透扫描工具<br>
+[+] 扫描工具 K8_C段旁注工具6.0<br>
 [+] 扫描工具 s加强版.exe<br>
 [+] 扫描工具 K8openssl批量 Bat版.rar<br>
 [+] 扫描工具 K8破壳SMTP Bat版.rar<br>
