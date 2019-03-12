@@ -4,7 +4,7 @@
 博客: https://www.cnblogs.com/k8gege<br>
 下载: https://github.com/k8gege/K8tools<br>
 密码: k8gege k8team K8team<br>
-PS:不定期更新,文件较大，按需下载。
+PS:不定期更新,文件比较大，按需下载。
 <H3>综合工具</H3>
 [+] 综合工具 K8飞刀Final.rar<br>
 <H3>免杀工具</H3>
