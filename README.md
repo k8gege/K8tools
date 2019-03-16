@@ -99,8 +99,8 @@ PS:不定期更新,文件比较大，按需下载。
 [+] 提权工具 bypassUACexe_0419[K8].rar  13年的吧 打补丁的WIN7好像不支持了<br>
 [+] 提权工具 Lpk提权_K8.rar   DLLHijack<br>
 [+] 提权工具 Usp10提权_K8.rar  DLLHijack<br>
-[+] 提权工具 MS11-046.exe (XP/2003/WIN7/2008)<br>
-[+] 提权工具 MS11-080.exe (XP/2003/WIN7/2008)<br>
+[+] 提权工具 MS11-046.exe <br>
+[+] 提权工具 MS11-080.exe <br>
 [+] 提权工具 MS14-068 EXP域内提权神器.rar<br>
 [+] 提权工具 MS15-010提权[K8team]_20150603.rar<br>
 [+] 提权工具 MS15-051提权 CVE-2015-1701_20150525[K8].rar<br>
