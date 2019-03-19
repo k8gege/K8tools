@@ -1,4 +1,4 @@
-# K8tools 20190316
+# K8tools 20190319
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
 博客: https://www.cnblogs.com/k8gege<br>
@@ -13,6 +13,8 @@ PS:不定期更新,文件比较大，按需下载。
 [+] 免杀工具 K8随机免杀花指令生成器V2.0.exe<br>
 [+] 免杀工具 K8数字签名添加器.exe<br>
 [+] 捆绑工具 K8免杀系统自带捆绑器加强版V2.0.EXE<br>
+<H3>嗅探工具</H3>
+[+] 嗅探工具 K8getPC.py 内网存活主机探测(无需端口\无视防火墙)<br>
 <H3>扫描工具</H3>
 [+] 扫描工具 K8 Cscan 3.0.rar 高效批量C段扫描工具<br>
 [+] 扫描工具 cping3.0.rar 大型内外网渗透扫描工具<br>
@@ -122,7 +124,7 @@ PS:不定期更新,文件比较大，按需下载。
 [+] 提权工具 NV显卡提权NVexploit.rar<br>
 [+] 提权工具 net2.0day.exe<br>
 [+] 提权工具 K8dllhijack.rar DLL却持测试工具<br>
-[+] 提权工具 Invoke-MS16-032.ps1
+[+] 提权工具 Invoke-MS16-032.ps1<br>
 [+] Apache 2.2.1.4 mod_isapi exploit.rar<br>
 <H3>WebShell</H3>
 [+] 上传工具 K8upload_1125[K8].rar 新型小马上传工具支持任意文件(内置asp\php\jsp小马)<br>
