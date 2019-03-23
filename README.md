@@ -9,7 +9,7 @@ PS: 不定期更新,文件比较大，可按需下载。(部份人反应下载�
     提权工具均可在远控cmd或WebShell下运行，大部份经过修改重新编译兼容性稳定性比网上要好<br>
     至少不像别人那样单纯收集POC或转载别人带后门的EXE放出来<br>
     先不说那些只弹CMD的POC，实战中你都有权限操作目标桌面?提个权要弹出CMD?然后在上面打指令？<br>
-    最主要一点是你拿到权限一定有桌面？你的远控有远程桌面功能？你自己网吧提权？<br>
+    最主要一点是你拿到权限一定有桌面？你的远控有远程桌面功能？你虚拟机里提权还是去网吧提权？<br>
     弹CMD的POC，90%必须USER以上权限才可以启动程序，更别说服务用户下不能使用创建带窗体进程的API<br>
     说得更明白就是很多POC在webshell下特别是IIS用户\网络服务根本无法运行,能运行也无法弹CMD<br>
 
@@ -48,6 +48,16 @@ PS: 不定期更新,文件比较大，可按需下载。(部份人反应下载�
 [+] 提权工具 K8dllhijack.rar DLL却持测试工具<br>
 [+] 提权工具 Invoke-MS16-032.ps1<br>
 [+] Apache 2.2.1.4 mod_isapi exploit.rar<br>
+
+<H3>漏洞利用</H3>
+[+] 漏洞利用 K8飞刀-EXPLOIT内含20个程序EXP（Drupal、Joomla、Wordpress、Vbulletin、Xampp、Zimbra、ThinkPHP、Magento、Discuz）<br>
+[+] 漏洞利用 K8_Struts2_EXP (S2-045、devMode、S2-037、S2-032、S2-020、S2-019、S2-016、S2-013、S2-009、S2-005)<br>
+[+] 漏洞利用 K8 DotNetNuke DNNspot Store =3.0 GetShell exploit.rar<br>
+[+] 漏洞利用 CVE-2018-2628 Weblogic GetShell EXPLOIT<br>
+[+] 漏洞利用 ColdFusion 8 LFI EXP<br>
+[+] 漏洞利用 K8_TomcatExp_1124[K.8].rar<br>
+[+] 漏洞利用 WordPress 4.2 XSS 0day 20150429[K.8].rar<br>
+[+] 漏洞利用 k8_zabbix_exp_20160820[K.8].rar<br>
 
 <H3>漏洞利用</H3>
 [+] 漏洞利用 K8飞刀-EXPLOIT内含20个程序EXP（Drupal、Joomla、Wordpress、Vbulletin、Xampp、Zimbra、ThinkPHP、Magento、Discuz）<br>
