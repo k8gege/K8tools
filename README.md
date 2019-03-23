@@ -1,4 +1,4 @@
-# K8tools 20190319
+# K8tools 20190323
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
 博客: https://www.cnblogs.com/k8gege<br>
@@ -157,6 +157,7 @@ PS: 不定期更新,文件比较大，可按需下载。(部份人反应下载�
 [+] 转发代理 K8PortMap.exe<br>
 
 <H3>WebShell</H3>
+[+] 转换工具 k8exe2bat.exe 任意文件转Bat工具(WebShell无法上传EXE解决方案)<br>
 [+] 上传工具 K8upload_1125[K8].rar 新型小马上传工具支持任意文件(内置asp\php\jsp小马)<br>
 [+] 连接工具 K8一句话ASP木马客户端加强程序版.exe<br>
 [+] WebShell k8cmd.ascx<br>
