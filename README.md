@@ -58,6 +58,16 @@ PS: 不定期更新,文件比较大，可按需下载。(部份人反应下载�
 [+] 漏洞利用 K8_TomcatExp_1124[K.8].rar<br>
 [+] 漏洞利用 WordPress 4.2 XSS 0day 20150429[K.8].rar<br>
 [+] 漏洞利用 k8_zabbix_exp_20160820[K.8].rar<br>
+
+<H3>漏洞利用</H3>
+[+] 漏洞利用 K8飞刀-EXPLOIT内含20个程序EXP（Drupal、Joomla、Wordpress、Vbulletin、Xampp、Zimbra、ThinkPHP、Magento、Discuz）<br>
+[+] 漏洞利用 K8_Struts2_EXP (S2-045、devMode、S2-037、S2-032、S2-020、S2-019、S2-016、S2-013、S2-009、S2-005)<br>
+[+] 漏洞利用 K8 DotNetNuke DNNspot Store =3.0 GetShell exploit.rar<br>
+[+] 漏洞利用 CVE-2018-2628 Weblogic GetShell EXPLOIT<br>
+[+] 漏洞利用 ColdFusion 8 LFI EXP<br>
+[+] 漏洞利用 K8_TomcatExp_1124[K.8].rar<br>
+[+] 漏洞利用 WordPress 4.2 XSS 0day 20150429[K.8].rar<br>
+[+] 漏洞利用 k8_zabbix_exp_20160820[K.8].rar<br>
 [+] 漏洞利用 K8_Ecshop_Exploit<br>
 [+] 漏洞利用 Magento 1.7.0.2 漏洞EXP_20150624[K.8].rar<br>
 [+] 漏洞利用 K8COOKIE.rar Cookie注入工具<br>
