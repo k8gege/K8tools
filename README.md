@@ -1,4 +1,4 @@
-# K8tools 20190323
+# K8tools 20190324
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
 博客: https://www.cnblogs.com/k8gege<br>
@@ -116,7 +116,8 @@ PS: 不定期更新,文件比较大，可按需下载。<br>
 [+] 扫描工具 WPdetection.exe WordPress站点信息获取<br>
 [+] 扫描工具 K8-S2批量.rar Struts2批量工具<br>
 [+] 扫描工具 smbcheck.exe MS17-010漏洞检测，cping、cscan批量专用<br>
-<H3>脱库工具</H3>
+<H3>数据库</H3>
+[+] 脱库工具 K8mysqlCmd.rar Mysql数据库免驱连接工具<br>
 [+] 脱库工具 K8_mysql脱裤20170114(千万).php<br>
 [+] 脱库工具 K8Packwebshell.aspx 整站打包工具<br>
 [+] 脱库工具 K8outSQL.aspx MSSQL导库工具<br>
