@@ -107,6 +107,8 @@ PS: 不定期更新,文件比较大，可按需下载。<br>
 <H3>嗅探工具</H3>
 [+] 嗅探工具 K8getPC.py 内网存活主机探测(无需端口\无视防火墙)<br>
 <H3>扫描工具</H3>
+[+] 扫描工具 K8Cscan for SameWeb.rar C段旁站扫描工具<br>
+[+] 扫描工具 K8Cscan for SubDomain.rar 子域名扫描工具<br>
 [+] 扫描工具 K8 Cscan 3.0.rar 高效批量C段扫描工具<br>
 [+] 扫描工具 cping3.0.rar 大型内外网渗透扫描工具<br>
 [+] 扫描工具 K8_C段旁注工具6.0<br>
