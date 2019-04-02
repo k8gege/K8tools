@@ -1,4 +1,4 @@
-# K8tools 20190330
+# K8tools 20190402
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
 博客: https://www.cnblogs.com/k8gege<br>
@@ -9,6 +9,8 @@ PS: 不定期更新,文件比较大，可按需下载。<br>
 提权工具均可在远控cmd或WebShell下运行，大部份经过修改重新编译兼容性稳定性比网上要好<br>
 <H3>综合工具</H3>
 [+] 综合工具 K8飞刀Final.rar<br>
+[+] K8data.mdb K8飞刀漏洞数据库20190402<br>
+[+] K8expList.txt K8飞刀漏洞利用列表<br>
 <H3>提权工具</H3>
 [+] 提权工具 iislpe.exe  IIS全版本提权(仅限IIS帐户、服务帐户)<br>
 [+] 提权工具 pr.exe pr有参版 pr0无参版（巴西烤肉:国内10年所说的PR或IIS6提权）<br>
