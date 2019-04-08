@@ -5,7 +5,7 @@
 下载: https://github.com/k8gege/K8tools<br>
 密码: k8gege k8team K8team<br>
 
-PS: 不定期更新,文件比较大，可按需下载。<br>
+PS: 不定期更新,文件比较大，可按需下载。工具BUG或有好的建议可直接Github上留言<br>
 提权工具均可在远控cmd或WebShell下运行，大部份经过修改重新编译兼容性稳定性比网上要好<br>
 <H3>综合工具</H3>
 [+] 综合工具 K8飞刀Final.rar<br>
