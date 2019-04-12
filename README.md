@@ -1,4 +1,4 @@
-# K8tools 20190408
+# K8tools 20190412
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
 博客: https://www.cnblogs.com/k8gege<br>
@@ -110,8 +110,9 @@ PS: 不定期更新,文件比较大，可按需下载。工具BUG或建议可直
 <H3>嗅探工具</H3>
 [+] 嗅探工具 K8getPC.py 内网存活主机探测(无需端口\无视防火墙)<br>
 <H3>扫描工具</H3>
-[+] 扫描工具 K8Cscan 3.2.rar 大型内网渗透自定义扫描工具<br>
-[+] 扫描插件 K8Cscan Moudle OSverScan.rar 系统版本探测插件<br>
+[+] 扫描工具 K8Cscan 3.4.rar 大型内网渗透自定义扫描工具<br>
+[+] 扫描插件 K8Cscan Moudle CiscoScan.rar Cisco思科探测插件<br>
+[+] 扫描插件 K8Cscan Moudle OSScan2.rar 系统版本探测插件2<br>
 [+] 扫描插件 K8Cscan Moudle PortScan.cs 端口扫描插件源码<br>
 [+] 扫描插件 K8Cscan Moudle FtpScan.rar Ftp密码扫描插件<br>
 [+] 扫描插件 K8Cscan Moudle MysqlScan.rar Mysql密码扫描插件<br>
