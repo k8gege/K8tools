@@ -4,7 +4,7 @@
 博客: https://www.cnblogs.com/k8gege<br>
 下载: https://github.com/k8gege/K8tools<br>
 
-PS: 不定期更新,文件比较大，可按需下载。工具BUG或建议可直接Github上留言<br>
+PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可直接Github上留言<br>
 提权工具均可在远控Cmd或WebShell运行，大部份经过修改编译兼容性稳定性更好<br>
 注意：不保证永久有效,喜欢自行保存。<br>
 
