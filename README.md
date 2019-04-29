@@ -1,9 +1,8 @@
-# K8tools 20190417
+# K8tools 20190428
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
 博客: https://www.cnblogs.com/k8gege<br>
 下载: https://github.com/k8gege/K8tools<br>
-密码: k8gege k8team K8team<br>
 
 PS: 不定期更新,文件比较大，可按需下载。工具BUG或建议可直接Github上留言<br>
 提权工具均可在远控cmd或WebShell下运行，大部份经过修改重新编译兼容性稳定性比网上要好<br>
@@ -112,7 +111,8 @@ PS: 不定期更新,文件比较大，可按需下载。工具BUG或建议可直
 <H3>嗅探工具</H3>
 [+] 嗅探工具 K8getPC.py 内网存活主机探测(无需端口\无视防火墙)<br>
 <H3>扫描工具</H3>
-[+] 扫描工具 K8Cscan 3.5.rar 大型内网渗透自定义扫描工具<br>
+[+] 扫描工具 K8Cscan 3.6.rar 大型内网渗透自定义扫描工具<br>
+[+] 扫描插件 K8Cscan Moudle WebLogicScan.rar Weblogic通用GetShell<br>
 [+] 扫描插件 K8Cscan Moudle CiscoScan.rar Cisco思科探测插件<br>
 [+] 扫描插件 K8Cscan Moudle OSScan2.rar 系统版本探测插件2<br>
 [+] 扫描插件 K8Cscan Moudle PortScan.cs 端口扫描插件源码<br>
