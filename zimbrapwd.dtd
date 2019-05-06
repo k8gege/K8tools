@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "file:../conf/localconfig.xml">
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % end "]]>">
+<!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
