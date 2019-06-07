@@ -112,7 +112,7 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 <H3>嗅探工具</H3>
 [+] 嗅探工具 K8getPC.py 内网存活主机探测(无需端口\无视防火墙)<br>
 <H3>扫描工具</H3>
-[+] 扫描工具 K8PortScan 跨平台多线程扫描器(Bin: Windows/Kali/SUSE)<br>
+[+] 扫描工具 K8PortScan开源跨平台大型网络端口扫描器(Bin: Windows/Kali/SUSE)<br>
 [+] 扫描工具 K8Cscan 3.8.rar 大型内网渗透自定义扫描工具<br>
 [+] 扫描插件 K8Cscan Moudle WebLogicScan.rar Weblogic通用GetShell<br>
 [+] 扫描插件 K8Cscan Moudle CiscoScan.rar Cisco思科探测插件<br>
@@ -125,7 +125,7 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 [+] 扫描插件 K8Cscan Moudle WmiScan.rar Wmi扫描Win系统密码插件<br>
 [+] 扫描工具 K8Cscan for SameWeb.rar C段旁站扫描工具<br>
 [+] 扫描工具 K8Cscan for SubDomain.rar 子域名扫描工具<br>
-[+] 扫描工具 cping3.0.rar 大型内外网渗透扫描工具<br>
+[+] 扫描工具 cping3.0.rar 大型内外网渗透主机扫描工具<br>
 [+] 扫描工具 K8_C段旁注工具6.0<br>
 [+] 扫描工具 s加强版.exe<br>
 [+] 扫描工具 K8openssl批量 Bat版.rar<br>
