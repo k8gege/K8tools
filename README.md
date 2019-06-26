@@ -1,4 +1,4 @@
-# K8tools 20190613
+# K8tools 20190626
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
 博客: https://www.cnblogs.com/k8gege<br>
@@ -50,6 +50,7 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 <H3>漏洞利用</H3>
 [+] 漏洞利用 K8飞刀-EXPLOIT内含20个程序EXP（Drupal、Joomla、Wordpress、Vbulletin、Xampp、Zimbra、ThinkPHP、Magento、Discuz）<br>
 [+] 漏洞利用 K8_Struts2_EXP (S2-045、devMode、S2-037、S2-032、S2-020、S2-019、S2-016、S2-013、S2-009、S2-005)<br>
+[+] 漏洞利用 cve-2019-0604 SharePoint RCE exploit<br>
 [+] 漏洞利用 K8_JbossExp.exe Jboss Jmx-console exploit<br>
 [+] 漏洞利用 K8 DotNetNuke DNNspot Store =3.0 GetShell exploit.rar<br>
 [+] 漏洞利用 CVE-2018-2628 Weblogic GetShell EXPLOIT<br>
