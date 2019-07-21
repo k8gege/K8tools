@@ -1,4 +1,4 @@
-# K8tools 20190626
+# K8tools 20190721
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
 博客: https://www.cnblogs.com/k8gege<br>
@@ -84,8 +84,9 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 [+] 漏洞利用 Jboss_invoke_Exp_k8.rar MSF脚本<br>
 [+] 漏洞利用 DB_Owner_GetShell_K8.rar MSSQL DB权限拿SHELL工具<br>
 <H3>挂马工具</H3>
-[+] 挂马工具  K8ARPTool.rar 内网ARP工具批量挂马<br>
-[+] 挂马工具  CHM网马生成器.exe<br>
+[+] 挂马工具 K8domainVBS.exe K8域控植入脚本生成器<br>
+[+] 挂马工具 K8ARPTool.rar 内网ARP工具批量挂马<br>
+[+] 挂马工具 CHM网马生成器.exe<br>
 [+] 0day漏洞 K8飞刀内置5个0day漏洞利用(Word漏洞\IE神洞\WVS\RAR)<br>
 [+] 0day漏洞 [视频]BT5 MSF JAVA 0day CVE-2013-0422 Exploit Demo By K8team.rar<br>
 [+] 0day漏洞 [视频]Hacking Team Flash 0day样本(Firefox IE)完美触发_20150707[K8].rar<br>
@@ -111,6 +112,7 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 [+] 远控后门 K8手机远控电脑V1.1_20121020[K.8].rar<br>
 [+] 远控后门 JspShellExec CMD下JSP一句话连接工具<br>
 [+] 捆绑工具 K8_rarBind.rar RAR捆绑工具<br>
+
 <H3>嗅探工具</H3>
 [+] 嗅探工具 K8getPC.py 内网存活主机探测(无需端口\无视防火墙)<br>
 <H3>扫描工具</H3>
@@ -142,6 +144,8 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 [+] 脱库工具 K8outSQL.aspx MSSQL导库工具<br>
 <H3>加密解密</H3>
 [+] K8飞刀里大量加密解密算法、编码解码、SQL注入、XSS等<br>
+[+] 密码破解 SharpWeb.exe 浏览器帐密读取工具(Firefox/Chorme/IE)<br>
+[+] 密码破解 laZagne.exe 本地密码检索工具(支持XP/2003)<br>
 [+] 密码破解 sshtest.exe SSH密码登陆测试可结合Cscan进行批量破解<br>
 [+] 嗅探工具 k8ftpsniffer.py FTP<br>
 [+] 密码破解 K8_DNN_Password_Decrypt_20161110.rar dotnetnuke密码解密工具<br>
@@ -169,7 +173,9 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 [+] 安全工具 K8进程拦截.rar (比方说访问网页浏览器调用外站EXE执行说明0day来了,而且可防止木马运行)<br>
 [+] 安全工具 K8驱动防止WebShell提权工具.rar (就是说无法通过WEBSHELL执行任意命令,就算有签名的EXE也不行)<br>
 [+] 辅助工具 K8注册表跳转.exe<br>
-[+] 转发代理 K8PortMap.exe<br>
+<H3>转发代理</H3>
+[+] 端口转发 PortTran.rar  .NET端口转发工具<br>
+[+] 端口转发 K8PortMap.exe D7端口映射工具<br>
 
 <H3>WebShell</H3>
 [+] 转换工具 k8exe2bat.exe 任意文件转Bat工具(WebShell无法上传EXE解决方案)<br>
