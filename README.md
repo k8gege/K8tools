@@ -96,6 +96,7 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 [+] 漏洞环境 K8 SQL强化练习工具V1.0_20190301[K8].rar<br>
 [+] 漏洞环境 K8迷你ASP服务器.exe 绿色一键启动<br>
 <H3>免杀工具</H3>
+[+] 免杀工具 scrun.exe & scrun.py ShellCode免杀加载器(CS & MSF)<br>
 [+] 免杀工具 K8_SC_ENCODE(CS & Msf免杀工具).rar<br>
 [+] 测试工具 K8shellcodeLoader.exe Shellcode测试<br>
 [+] 免杀工具 K8随机免杀花指令生成器V2.0.exe<br>
