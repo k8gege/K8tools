@@ -8,7 +8,7 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 注意：不保证永久有效,喜欢自行保存。<br>
 
 <H3>综合工具</H3>
-[+] 扫描工具 K8Cscan5.0.rar 大型内网渗透扫描器内置22个功能,支持Cobalt Strike<br>
+[+] 扫描工具 K8Cscan5.3 大型内网渗透扫描器内置27个功能,支持Cobalt Strike<br>
 [+] 综合工具 K8飞刀Final.rar<br>
 [+] K8data.mdb K8飞刀漏洞数据库20190402<br>
 [+] K8expList.txt K8飞刀漏洞利用列表<br>
