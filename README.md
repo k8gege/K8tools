@@ -1,5 +1,8 @@
 # K8tools 20191024
-
+[![GitHub issues](https://img.shields.io/github/issues/k8gege/K8tools)](https://github.com/k8gege/K8tools/issues) 
+[![Github Stars](https://img.shields.io/github/stars/k8gege/K8tools)](https://github.com/k8gege/K8tools) 
+[![GitHub forks](https://img.shields.io/github/forks/k8gege/K8tools)](https://github.com/k8gege/K8tools)
+[![GitHub license](https://img.shields.io/github/license/k8gege/K8tools)](https://github.com/k8gege/K8tools)
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
 下载: https://github.com/k8gege/K8tools<br>
 
