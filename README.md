@@ -14,6 +14,7 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 注意：不保证永久有效,喜欢自行保存。<br>
 
 <H3>综合工具</H3>
+[+] 扫描工具 Ladon 5.5 大型内网渗透扫描神器内置39个功能,支持Cobalt Strike<br>
 [+] 扫描工具 K8Cscan5.4 大型内网渗透扫描器内置30个功能,支持Cobalt Strike<br>
 [+] 综合工具 K8飞刀Final.rar<br>
 [+] K8data.mdb K8飞刀漏洞数据库20190402<br>
@@ -53,9 +54,11 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 [+] 提权工具 Invoke-MS16-032.ps1<br>
 [+] Apache 2.2.1.4 mod_isapi exploit.rar<br>
 
+
 <H3>漏洞利用</H3>
 [+] 漏洞利用 K8飞刀-EXPLOIT内含20个程序EXP（Drupal、Joomla、Wordpress、Vbulletin、Xampp、Zimbra、ThinkPHP、Magento、Discuz）<br>
 [+] 漏洞利用 K8_Struts2_EXP (S2-045、devMode、S2-037、S2-032、S2-020、S2-019、S2-016、S2-013、S2-009、S2-005)<br>
+[+] 漏洞检测 Ladon POC Moudle CVE-2019-11043 (PHP-FPM + Ngnix)<br>
 [+] 漏洞利用 cve-2019-0604 SharePoint RCE exploit<br>
 [+] 漏洞利用 K8_JbossExp.exe Jboss Jmx-console exploit<br>
 [+] 漏洞利用 K8 DotNetNuke DNNspot Store =3.0 GetShell exploit.rar<br>
