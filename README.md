@@ -21,7 +21,8 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 [+] 综合工具 K8飞刀Final.rar<br>
 [+] K8data.mdb K8飞刀漏洞数据库20190402<br>
 [+] K8expList.txt K8飞刀漏洞利用列表<br>
-<H3>提权工具</H3>
+### 提权工具
+[+] 提权工具 Comahawk.rar CVE-2019-1405 & CVE-2019-1322<br>
 [+] 提权工具 CVE-2019-0803.exe Win32k漏洞提权工具<br>
 [+] 提权工具 iislpe.exe  IIS全版本提权(仅限IIS帐户、服务帐户)<br>
 [+] 提权工具 pr.exe pr有参版 pr0无参版（巴西烤肉:国内10年所说的PR或IIS6提权）<br>
