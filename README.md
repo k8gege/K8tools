@@ -1,4 +1,4 @@
-# K8tools 20200118
+# K8tools 2020603
 [![Author](https://img.shields.io/badge/Author-k8gege-blueviolet)](https://github.com/k8gege)
 [![GitHub issues](https://img.shields.io/github/issues/k8gege/K8tools)](https://github.com/k8gege/K8tools/issues) 
 [![Github Stars](https://img.shields.io/github/stars/k8gege/K8tools)](https://github.com/k8gege/K8tools/stargazers) 
@@ -16,6 +16,9 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 注意：不保证永久有效,喜欢自行保存。<br>
 
 <H3>综合工具</H3>
+[+] 扫描工具 Ladon 6.6 SMB漏洞检测 SMBGhost CVE-2020-0796<br>
+[+] 扫描工具 Ladon 6.5 内网横向移动（psexec/atexec/wmiexec/sshexec/webshell）<br>
+[+] 扫描工具 Ladon 6.4 降权提权（bypassUAC/GetSystem/Runas）<br>
 [+] 扫描工具 Ladon 6.0 大型内网渗透扫描神器内置48个功能,支持Cobalt Strike<br>
 [+] 扫描工具 Ladon 5.7 大型内网渗透扫描神器内置40个功能,支持Cobalt Strike<br>
 [+] 扫描工具 K8Cscan5.4 大型内网渗透扫描器内置30个功能,支持Cobalt Strike<br>
@@ -125,8 +128,13 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 [+] 远控后门 QQ远控 ClientKey 利用工具.rar 不免杀18年仍然可用19年未测估计也还行<br>
 [+] 远控后门 vncdoor.exe  VNC后门可正反向<br>
 [+] 远控后门 k8_SSH_Manage.exe 渗透专用SSH(执行完后立即销毁会话,不像putty保存会话常暴露IP)<br>
-[+] 连接工具 sshcmd.exe   渗透专用SSH(执行完后立即销毁会话,同时清除连接IP)<br>
-[+] 连接工具 sshshell.exe 交互式SSH类似putty保持会话(目标显示IP一直连着)<br>
+[+] 横向移动 sshcmd.exe   渗透专用SSH(执行完后立即销毁会话,同时清除连接IP)<br>
+[+] 横向移动 sshshell.exe 交互式SSH类似putty保持会话(目标显示IP一直连着)<br>
+[+] 横向移动 psexec.exe Impacket PY2.7编译仅5M支持XP-WIN10系统<br>
+[+] 横向移动 atexec.exe Impacket PY2.7编译仅5M支持XP-WIN10系统<br>
+[+] 横向移动 wmiexec.exe Impacket PY2.7编译仅5M支持XP-WIN10系统<br>
+[+] 横向移动 smbexec.exe Impacket PY2.7编译仅5M支持XP-WIN10系统<br>
+[+] 横向移动 WinrmCmd.exe 本机无需启动Winrm也可远程执行命令<br>
 [+] 远控后门 K8手机远控电脑V1.1_20121020[K.8].rar<br>
 [+] 远控后门 JspShellExec CMD下JSP一句话连接工具<br>
 [+] 捆绑工具 K8_rarBind.rar RAR捆绑工具<br>
