@@ -6,7 +6,7 @@ import (
   "strconv"
 )
 //Winrm Remote Shell by k8gege
-//http://k8gege.org/p/winrmscan.html
+//http://k8gege.org/Ladon/WinrmScan.html
 #C:\Users\k8gege\Desktop\>winrmcmd.exe 192.168.1.116 5985 k8gege k8gege520 whoami
 #k8gege
 
