@@ -1,4 +1,4 @@
-# K8tools 2020603
+# K8tools 2020628
 [![Author](https://img.shields.io/badge/Author-k8gege-blueviolet)](https://github.com/k8gege)
 [![GitHub issues](https://img.shields.io/github/issues/k8gege/K8tools)](https://github.com/k8gege/K8tools/issues) 
 [![Github Stars](https://img.shields.io/github/stars/k8gege/K8tools)](https://github.com/k8gege/K8tools/stargazers) 
@@ -16,6 +16,7 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 注意：不保证永久有效,喜欢自行保存。<br>
 
 <H3>综合工具</H3>
+[+] 反弹工具 Ladon 6.6.6 反弹MSF/NC Shell(TCP/HTTP/HTTPS)<br>
 [+] 扫描工具 Ladon 6.6 SMB漏洞检测 SMBGhost CVE-2020-0796<br>
 [+] 扫描工具 Ladon 6.5 内网横向移动（psexec/atexec/wmiexec/sshexec/webshell）<br>
 [+] 扫描工具 Ladon 6.4 降权提权（bypassUAC/GetSystem/Runas）<br>
