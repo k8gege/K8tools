@@ -228,3 +228,9 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 [+]系统美化 k8cmd.exe<br>
 [+]辅助工具 K8侠盗猎车4外挂.exe<br>
 [+]辅助工具 K8迅雷、快车、旋风地址互换工具.exe<br>
+
+### 最新工具
+以后最新工具或部分工具仅在小密圈发布
+<div style="text-align: center; width: 710px; border: green solid 0px;">
+<img alt="" src="http://k8gege.org/img/k8team.jpg" style="display: inline-block;width: 250px;height: 300px;" />
+</div>
