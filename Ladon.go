@@ -141,6 +141,8 @@ func Exploit() {
 
 }
 
+var isicmp bool
+
 func incIP(ip net.IP) {
 	for j := len(ip) - 1; j >= 0; j-- {
 		ip[j]++
@@ -156,12 +158,19 @@ func GetUser(){
         //fmt.Println(err)
         return
     }
-	fmt.Println("User: "+u.Username)
+	if isicmp {
+	color.Magenta("User: "+u.Username+" IsAdmin")
+	} else {
+	fmt.Println("User: "+u.Username+" IsUser")	
+	}
+
 }
 var debugLog *log.Logger
 func main() {
-	color.Green("LadonGo 3.0 by k8gege")
+	color.Green("LadonGo 3.1 by k8gege")
 	fmt.Println("Arch: "+runtime.GOARCH+" OS: "+runtime.GOOS)
+	if icmp.IcmpOK("localhost") {
+	isicmp=true}
 	GetUser()	
 	fmt.Println("Pid: ",os.Getpid(),"Process:",path.Base(os.Args[0]))
 	ParLen := len(os.Args)
@@ -292,9 +301,11 @@ func main() {
 			}
 			for i:=ips;i<=ipe;i++ {
 				ip:=fmt.Sprintf("%s.%d",IPC,i)
+				
 				fmt.Println("\nC_Segment: "+ip)
 				fmt.Println("=============================================")
 				CScan(ScanType,ip)
+				
 			 }	
 	} else if strings.Contains(Target, "/") {
 		if Target != ""  {
@@ -319,6 +330,9 @@ func main() {
 	//log.Println("Finished")	
 	fmt.Println(" Finished: "+time.Now().Format("2006-01-02 03:04:05"))
 }
+func CEnd(){
+fmt.Println("CFinished: "+time.Now().Format("2006-01-02 03:04:05"))
+}
 func End(){
 fmt.Println(" Finished: "+time.Now().Format("2006-01-02 03:04:05"))
 os.Exit(0)
@@ -339,6 +353,7 @@ func CScan(ScanType string,Target string){
 		}(ip)
 	}
 	wg.Wait()
+	CEnd()
 }
 func BScan(ScanType string,Target string){
 	ip:=strings.Replace(Target, "/b", "", -1)
@@ -369,10 +384,29 @@ func LadonScan(ScanType string,Target string) {
 		icmp.Icmp(Target,debugLog)
 	} else if ScanType == "SNMPSCAN" ||ScanType == "SNMP" {
 		snmp.GetInfo(Target)
-	} else if ScanType == "PORTSCAN" || ScanType == "SCANPORT" {
-		port.ScanPort(Target)
-	} else if ScanType == "TCPBANNER" {
-		port.ScanPortBanner(Target)
+	} else if ScanType == "ONLINEPC"{
+		if isicmp {
+			icmp.Icmp(Target,debugLog)
+		}else if ping.PingOK(Target) {
+			ping.PingName(Target)
+		}
+		snmp.SnmpOK(Target)
+	} else if ScanType == "PORTSCAN" || ScanType == "SCANPORT"|| ScanType == "TCPSCAN" {
+		if isicmp {
+		if icmp.IcmpOK(Target) {
+			port.ScanPort(Target)
+		} 
+		}else if ping.PingOK(Target) {
+			port.ScanPort(Target)
+		}
+	} else if ScanType == "TCPBANNER"|| ScanType == "PORTSCANBNNER" || ScanType == "SCANPORTBANNER"  {		
+		if isicmp {
+		if icmp.IcmpOK(Target) {
+			port.ScanPortBanner(Target)
+		} 
+		}else if ping.PingOK(Target) {
+			port.ScanPortBanner(Target)
+		}
 	} else if ScanType == "HTTPBANNER" ||ScanType == "WEBBANNER" {
 		http.HttpBanner(Target)
 	} else if ScanType == "HTTPTITLE" || ScanType == "WEBTITLE" {
@@ -396,7 +430,7 @@ func LadonScan(ScanType string,Target string) {
 	} else if ScanType == "MSSQLSCAN" {
 		mssql.MssqlScan(ScanType,Target)
 	} else if ScanType == "ORACLESCAN" {
-		oracle.OracleScan(ScanType,Target)
+		//oracle.OracleScan(ScanType,Target)
 	} else if ScanType == "SQLPLUSSCAN" {
 		oracle.SqlPlusScan(ScanType,Target)
 	} else if ScanType == "WINRMSCAN" {
