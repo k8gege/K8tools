@@ -9,7 +9,7 @@
 
 声明: 工具仅供安全研究或授权渗透，非法用途后果自负。<br>
 下载: https://github.com/k8gege/K8tools<br>
-文档: http://k8gege.org<br>
+文档: http://k8gege.org/p/72f1fea6.html<br>
 
 PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可直接Github上留言<br>
 提权工具均可在远控Cmd或WebShell运行，大部份经过修改编译兼容性稳定性更好<br>
