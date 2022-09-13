@@ -19,9 +19,3 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 <div style="text-align: center; width: 710px; border: green solid 0px;">
 <img alt="" src="http://k8gege.org/img/k8team.jpg" style="display: inline-block;width: 250px;height: 300px;" />
 </div>
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/k8gege/K8tools.svg)](https://starchart.cc/k8gege/K8tools)
-
-<img align='right' src="https://profile-counter.glitch.me/K8tools/count.svg" width="200">
