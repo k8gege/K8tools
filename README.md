@@ -24,10 +24,10 @@ PS: 不定期更新,文件比较大，可按需下载。工具有BUG或建议可
 
 ## 法律声明 工具仅供安全研究或授权渗透，非法用途后果自负。
 
-![图片1](/img/1.png)
-![图片2](/img/2.png)
-![图片3](/img/3.png)
-![图片4](/img/4.png)
+![图片1](https://github.com/k8gege/k8toolkit/blob/main/img/1.png)
+![图片2](https://github.com/k8gege/k8toolkit/blob/main/img/2.png)
+![图片3](https://github.com/k8gege/k8toolkit/blob/main/img/3.png)
+![图片4](https://github.com/k8gege/k8toolkit/blob/main/img/4.png)
 
 
 ### 最新工具
